@@ -1,0 +1,12 @@
+# Build output and packaged releases
+dist/
+.build/
+
+# QA evidence (screenshots and reports)
+evidence/
+
+# macOS
+.DS_Store
+
+# Python tooling
+__pycache__/
